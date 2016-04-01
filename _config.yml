@@ -1,0 +1,28 @@
+name: NextBigBiz
+favicon: null
+layout_spectrum: 0.002347597386687994
+typography_spectrum: 0.12036127666942775
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8402834183070809
+  lightness: 0.1191574924159795
+  saturation: 0.6117682061158121
+  rhythmicContrast: 0.9821282324846834
+purpose: []
