@@ -1,7 +1,7 @@
 name: NextBigBiz
 favicon: null
-layout_spectrum: 0.49902
-typography_spectrum: 0.75319
+layout_spectrum: 0
+typography_spectrum: 0.3835
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#d1928d'
     - '#6b2724'
   brandStrength: 0
-  lightness: 0
+  lightness: 1
   saturation: 0
-  rhythmicContrast: 0
+  rhythmicContrast: 0.5
 purpose: []
