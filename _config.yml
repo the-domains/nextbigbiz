@@ -2,7 +2,7 @@ name: NextBigBiz
 favicon: null
 layout_spectrum: 0.24276
 typography_spectrum: 0.7384
-title: 'Find the perfect brand name for your Next Big Biz!'
+title: Find the perfect brand name for your Next Big Biz!
 cta:
   domain: null
   bucket: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0
   lightness: 0
   saturation: 0
-  rhythmicContrast: 0
+  rhythmicContrast: 0.25
 purpose: []
